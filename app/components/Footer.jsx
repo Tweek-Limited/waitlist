@@ -40,61 +40,30 @@ const Footer = () => {
 
                             <ul class="mt-8 space-y-4 text-sm">
                                 <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
+                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="https://berry-scale-8f9.notion.site/Terms-of-Use-46d53d3b26804799802549219c0dc351?pvs=4">
                                         Terms & Conditions
                                     </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Privacy Policy </a>
+                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="https://berry-scale-8f9.notion.site/Privacy-Policy-3b6d8ae39e84408bbc89b0311f62debd?pvs=4"> Privacy Policy </a>
                                 </li>
 
                                 <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-                                        Cookie Policy
+                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="https://berry-scale-8f9.notion.site/Community-Guidelines-bf74d5f332d8480cbade5f6465c25f00?pvs=4">
+                                        Community Guidelines
                                     </a>
                                 </li>
 
 
                             </ul>
                         </div>
-
-                        <div class="text-center sm:text-left">
-                            <p class="text-lg font-medium text-gray-900">Resources</p>
-
-                            <ul class="mt-8 space-y-4 text-sm">
-                                <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Online Guides </a>
-                                </li>
-
-                                <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-                                        Conference Notes
-                                    </a>
-                                </li>
-
-                                <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Forum </a>
-                                </li>
-
-                                <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/"> Downloads </a>
-                                </li>
-
-                                <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/">
-                                        Upcoming Events
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-
                         <div class="text-center sm:text-left">
                             <p class="text-lg font-medium text-gray-900">Helpful Links</p>
 
                             <ul class="mt-8 space-y-4 text-sm">
                                 <li>
-                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/"> FAQs </a>
+                                    <a class="text-gray-700 transition hover:text-gray-700/75" href="/#faq"> FAQs </a>
                                 </li>
 
                                 <li>

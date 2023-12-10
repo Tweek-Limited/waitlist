@@ -38,13 +38,13 @@ const page = () => {
                         <div class="grid grid-cols-2 gap-4 md:grid-cols-1 lg:grid-cols-2">
                             <img
                                 alt="Student"
-                                src="https://images.unsplash.com/photo-1621274790572-7c32596bc67f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80"
+                                src="https://images.unsplash.com/photo-1516397281156-ca07cf9746fc?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG9ubGluZSUyMGVkdWNhdGlvbnxlbnwwfHwwfHx8MA%3D%3D"
                                 class="h-40 w-full object-cover sm:h-56 md:h-full"
                             />
 
                             <img
                                 alt="Student"
-                                src="https://images.unsplash.com/photo-1567168544813-cc03465b4fa8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+                                src="https://images.unsplash.com/photo-1501290836517-b22a21c522a4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8b25saW5lJTIwZWR1Y2F0aW9ufGVufDB8fDB8fHww"
                                 class="h-40 w-full object-cover sm:h-56 md:h-full"
                             />
                         </div>
