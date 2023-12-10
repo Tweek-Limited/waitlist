@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Chettan+2:wght@700&display=swap");
+
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-color: #64beff;
+  --main-color-hover: #57b5f8;
+  --light-grey: #f2f6f9;
+  --light-grey-lighter: #ebebeb;
+  --background-color: #fbfdfe;
+  --tweek-text: "Baloo Chettan 2", cursive;
+  --tweek-color-button: #a1c2f1;
+  --tweek-color-button-hover: #a1c2f157;
+}
+
+body {
+  scroll-behavior: smooth;
+  background: url('../public/Landingbg.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@layer base{
+  .hero_title{
+      font-family: var(--tweek-text);
+      -webkit-user-drag: none;
+      user-select: none;
+  }
+}
