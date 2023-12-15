@@ -6,7 +6,7 @@ import Footer from './components/Footer'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Tweek - Waitlist',
+  title: 'Tweek Waitlist',
   description: 'Tweek Waiting List, join the early beta release of Tweek',
 }
 
